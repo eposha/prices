@@ -1,10 +1,20 @@
 <h2>Description:</h2>
 
-This is landing page layout - Prices Supports desktop, tablet and mobile versions
+This is landing page layout - Vangoux <br>
+Supports: desktop version only
+          
+
 
 <h2>Pages implemented:</h2>
-https://eposha.github.io/prices/
 
+> [Main page](https://eposha.github.io/prices/)
+
+>
 <h2>Tech stack:</h2>
-HTML5, CSS3, SASS <br>
-BEM methodology
+
+* HTML
+* CSS3
+* SCSS
+* BEM methodology
+
+
